@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix MY CHSE Admin Portal",
+  "description": "A secure, all-in-one management system for Odisha CHSE student registration, course content, and digital learning analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
